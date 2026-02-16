@@ -1,0 +1,263 @@
+[
+    {
+        "filename": "Email_Document.pdf",
+        "category": "This document is an invoice",
+        "confidence": 0.3987,
+        "top_keywords": [
+            [
+                "com",
+                0.5992215177119797
+            ],
+            [
+                "example",
+                0.5992215177119797
+            ],
+            [
+                "body",
+                0.29961075885598987
+            ],
+            [
+                "subject",
+                0.29961075885598987
+            ],
+            [
+                "attached",
+                0.08988322765679696
+            ],
+            [
+                "schedule",
+                0.08988322765679696
+            ],
+            [
+                "budget",
+                0.05992215177119797
+            ],
+            [
+                "code",
+                0.05992215177119797
+            ],
+            [
+                "conference",
+                0.05992215177119797
+            ],
+            [
+                "invoice",
+                0.05992215177119797
+            ]
+        ],
+        "metadata": {
+            "invoice_number": "attached",
+            "total_amount": null,
+            "date": "body"
+        }
+    },
+    {
+        "filename": "Invoice.pdf",
+        "category": "This document is an invoice",
+        "confidence": 0.7701,
+        "top_keywords": [
+            [
+                "48",
+                0.3333333333333333
+            ],
+            [
+                "71",
+                0.3333333333333333
+            ],
+            [
+                "10",
+                0.2222222222222222
+            ],
+            [
+                "2012",
+                0.2222222222222222
+            ],
+            [
+                "50",
+                0.2222222222222222
+            ],
+            [
+                "ship",
+                0.2222222222222222
+            ],
+            [
+                "06",
+                0.1111111111111111
+            ],
+            [
+                "11",
+                0.1111111111111111
+            ],
+            [
+                "13",
+                0.1111111111111111
+            ],
+            [
+                "20",
+                0.1111111111111111
+            ]
+        ],
+        "metadata": {
+            "invoice_number": "36258",
+            "total_amount": null,
+            "date": "ship mode"
+        }
+    },
+    {
+        "filename": "Project Report.pdf",
+        "category": "This document is a project report",
+        "confidence": 0.2495,
+        "top_keywords": [
+            [
+                "insert",
+                0.3701548753267408
+            ],
+            [
+                "values",
+                0.3701548753267408
+            ],
+            [
+                "null",
+                0.2755288169725364
+            ],
+            [
+                "product",
+                0.23099890715879312
+            ],
+            [
+                "table",
+                0.21708331034199838
+            ],
+            [
+                "employee",
+                0.1976014747984857
+            ],
+            [
+                "customer",
+                0.18925211670840883
+            ],
+            [
+                "varchar2",
+                0.1669871618015372
+            ],
+            [
+                "id",
+                0.15863780371146036
+            ],
+            [
+                "database",
+                0.14193908753130663
+            ]
+        ],
+        "metadata": {
+            "project_title": null,
+            "team_members": "student id",
+            "supervisor": null
+        }
+    },
+    {
+        "filename": "Resume.pdf",
+        "category": "This document is a resume",
+        "confidence": 0.7912,
+        "top_keywords": [
+            [
+                "special",
+                0.2817180849095055
+            ],
+            [
+                "arkansas",
+                0.2253744679276044
+            ],
+            [
+                "care",
+                0.2253744679276044
+            ],
+            [
+                "client",
+                0.2253744679276044
+            ],
+            [
+                "little",
+                0.2253744679276044
+            ],
+            [
+                "rock",
+                0.2253744679276044
+            ],
+            [
+                "1999",
+                0.1690308509457033
+            ],
+            [
+                "childhood",
+                0.1690308509457033
+            ],
+            [
+                "clients",
+                0.1690308509457033
+            ],
+            [
+                "daily",
+                0.1690308509457033
+            ]
+        ],
+        "metadata": {
+            "name": null,
+            "email": "jwsmith@colostate.edu",
+            "phone": "1999-2002",
+            "skills": null
+        }
+    },
+    {
+        "filename": "Scientific_Document.pdf",
+        "category": "This document is a scientific paper",
+        "confidence": 0.652,
+        "top_keywords": [
+            [
+                "ai",
+                0.40961596025952024
+            ],
+            [
+                "cancer",
+                0.3276927682076162
+            ],
+            [
+                "detection",
+                0.24576957615571215
+            ],
+            [
+                "imaging",
+                0.24576957615571215
+            ],
+            [
+                "improve",
+                0.24576957615571215
+            ],
+            [
+                "medical",
+                0.24576957615571215
+            ],
+            [
+                "accuracy",
+                0.1638463841038081
+            ],
+            [
+                "al",
+                0.1638463841038081
+            ],
+            [
+                "author",
+                0.1638463841038081
+            ],
+            [
+                "early",
+                0.1638463841038081
+            ]
+        ],
+        "metadata": {
+            "title": "advances in ai for cancer detection",
+            "author": "et al., journal of ai, 2023",
+            "abstract": "artificial intelligence (ai) has shown significant promise in medical imaging. early detection of"
+        }
+    }
+]
